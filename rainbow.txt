@@ -2,6 +2,7 @@ Purple
 pink
 Orange
 Green
+Yellow
 Blue
 Red
 This is colors of Rainbow
