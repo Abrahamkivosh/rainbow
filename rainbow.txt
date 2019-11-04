@@ -6,5 +6,6 @@ Green
 Yellow
 Blue
 Red
-Unicon
-This is colors of Rainbow and Unicon
+Unicorn
+This is colors of Rainbow and Unicorn
+Unicorn 
